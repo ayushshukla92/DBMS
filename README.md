@@ -1,4 +1,5 @@
 The project contains **SQL** implemented in **python**. It is the menu-driven project from which you can do the following -
+
 **1. UNION**
 
 **2. INTERSECTION**
